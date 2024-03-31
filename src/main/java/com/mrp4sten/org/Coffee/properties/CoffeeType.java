@@ -1,0 +1,6 @@
+package com.mrp4sten.org.Coffee.properties;
+
+public enum CoffeeType {
+  BLACK, LATTE, CAPPUCCINO, AMERICANO, ESPRESSO, DOPPIO, CORTADO, RED_EYE, GALAO, LUNGO, MACCHIATO, MOCHA, RISTRETTO,
+  FLAT_WHITE, AFFOGATO, IRISH
+}
